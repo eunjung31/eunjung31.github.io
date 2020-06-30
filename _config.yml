@@ -24,7 +24,6 @@ description              : "Beginner of Automatic Speech Recognition, Spoken Lan
 url                      : "https://eunjung31.github.io"
 baseurl                  : ""
 repository               : "eunjung31/eunjung31.github.io"
-search                   : true
 teaser                   : #
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -52,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:ej.yeo@snu.ac.kr"
+      url: "ej.yeo@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

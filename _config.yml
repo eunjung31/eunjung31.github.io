@@ -10,8 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+remote_theme             : "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin    : "contrast"
-# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"remote_theme: ㄱ
 
 # Site Settings
 locale                   : "ko"  #"en-US"
@@ -24,7 +25,7 @@ url                      : "https://eunjung31.github.io"
 baseurl                  : ""
 repository               : "eunjung31/eunjung31.github.io"
 search                   : true
-teaser                   : "여은정.jpg"
+teaser                   : #
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -94,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "EunJungYEO"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "여은정.jpg"
   bio              : "Master's Student at Spoken Language Processing Lab in Department of Linguistics, SNU"
   location         : "Seoul, Republic of Korea"
   email            : "ej.yeo@snu.ac.kr"

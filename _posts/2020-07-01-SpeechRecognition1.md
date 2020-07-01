@@ -10,4 +10,20 @@ tags:
 last_modified_at: 2020-07-01
 ---
 
-...
+# Voiced and Voiceless Sounds
+
+# Syllables
+## Consonants
+## Vowels
+
+# Phonemes & Phones
+
+# Spectrogram
+
+# Thoughts
+## Features & Labels in Supervised ML
+## Fourier Transform (optional)
+
+# Feature Extraction
+
+# Next

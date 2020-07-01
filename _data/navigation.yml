@@ -6,7 +6,7 @@ main:
      url: /tags/
 #   - title: "About"
      url: /about/
-#   - title: "연도별 포스트"
+   - title: "연도별 포스트"
      url: /posts/
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

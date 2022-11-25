@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-26T06:36:31+09:00</updated>
+ <updated>2022-11-26T06:57:49+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -17,7 +17,17 @@
    <link href="http://localhost:4000/2022/11/25/conferences/"/>
    <updated>2022-11-25T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/25/conferences</id>
-   <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+   <content type="html">&lt;p&gt;Choi, K.*, &amp;amp; &lt;b&gt;Yeo, E. J.*&lt;/b&gt; (2022). &lt;u&gt;Opening the Black Box of wav2vec Feature Encoder.&lt;/u&gt; arXiv preprint arXiv:2210.15386.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Yeo, E. J.* &lt;/b&gt;, Choi, K.*, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Automatic Severity Assessment of Dysarthric speech by using Self-supervised Model with Multi-task Learning.&lt;/u&gt; arXiv preprint arXiv:2210.15387.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.&lt;/u&gt; &lt;i&gt;in Proc. O-Cocosda &lt;/i&gt; &lt;b&gt;(Oral, Virtual)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Choi, K., Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil.&lt;/u&gt; &lt;i&gt;in Proc. APSIPA ASC &lt;/i&gt; &lt;b&gt;(Oral only)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). &lt;u&gt;Automatic Severity Classification of Korean Dysarthric Speech Using Phoneme-Level Pronunciation Features,&lt;/u&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Hernandez, A., &lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2020, September). &lt;u&gt;Dysarthria Detection and Severity Assessment Using Rhythm-Based Metrics.&lt;/u&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -26,7 +36,7 @@
    <link href="http://localhost:4000/2022/11/25/Journals/"/>
    <updated>2022-11-25T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/25/Journals</id>
-   <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). Automatic severity classification of dysarthria using voice quality, prosody, and pronunciation features. Phonetics and Speech Sciences, 13(2), 57-66.&lt;/p&gt;
 </content>
  </entry>
  

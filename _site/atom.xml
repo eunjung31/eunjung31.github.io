@@ -4,13 +4,31 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-26T06:14:56+09:00</updated>
+ <updated>2022-11-26T06:34:03+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Conferences</title>
+   <link href="http://localhost:4000/2022/11/25/conferences/"/>
+   <updated>2022-11-25T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/25/conferences</id>
+   <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Journals</title>
+   <link href="http://localhost:4000/2022/11/25/Journals/"/>
+   <updated>2022-11-25T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/25/Journals</id>
+   <content type="html">&lt;p&gt;Hello!&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>

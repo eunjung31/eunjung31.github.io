@@ -7,9 +7,9 @@ plugins: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Welcome!
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Eun Jung YEO
+#tagline:          'A Jekyll theme'
+description:      'PhD candidate, Department of Linguistics, SNU'
 url:              http://hyde.getpoole.com
 baseurl:          /
 

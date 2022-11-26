@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Eun Jung YEO
 #tagline:          'A Jekyll theme'
-description:      'PhD candidate, Department of Linguistics, SNU'
+description:      'PhD candidate, Department of Linguistics, Seoul National University'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -23,4 +23,4 @@ paginate:         100
 version:          1.0.0
 
 github:
-  repo:           github.com/eunjung31
+  repo:           'https://github.com/eunjung31'

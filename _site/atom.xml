@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-26T12:39:32+09:00</updated>
+ <updated>2022-11-26T16:53:28+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -13,15 +13,45 @@
 
  
  <entry>
-   <title>Conferences</title>
-   <link href="http://localhost:4000/2022/11/25/conferences/"/>
+   <title>About</title>
+   <link href="http://localhost:4000/2022/11/26/about/"/>
+   <updated>2022-11-26T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/26/about</id>
+   <content type="html">&lt;p class=&quot;message&quot;&gt;
+Hey there! I am a linguist interested in technologies for atypical speech.
+Here, atypcial speech includes disorder speech (mainly dysarthric speech) and L2 speech.
+My passion is to build a better world where everyone can convey their messages towards the world.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brief Bio</title>
+   <link href="http://localhost:4000/2022/11/25/BriefBio/"/>
    <updated>2022-11-25T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/25/conferences</id>
+   <id>http://localhost:4000/2022/11/25/BriefBio</id>
+   <content type="html">&lt;li&gt;
+&lt;b&gt;PhD candiate&lt;/b&gt; in Linguistics (Spoken Language Processing) @ Seoul National University, 2021.3 - Current
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;MA&lt;/b&gt; in Linguistics (Spoken Language Processing) @ Seoul National University, 2019.3-2021.2
+&lt;/li&gt;
+&lt;li&gt;
+&lt;b&gt;BA&lt;/b&gt; in Korean Language and Literature, &amp;amp; Psychology @ Yonsei University, 2014.3-2018.2
+&lt;/li&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Conferences</title>
+   <link href="http://localhost:4000/2022/11/23/conferences/"/>
+   <updated>2022-11-23T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/23/conferences</id>
    <content type="html">&lt;p&gt;Choi, K.*, &amp;amp; &lt;b&gt;Yeo, E. J.*&lt;/b&gt; (2022). &lt;u&gt;Opening the Black Box of wav2vec Feature Encoder.&lt;/u&gt; arXiv preprint arXiv:2210.15386.&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Yeo, E. J.* &lt;/b&gt;, Choi, K.*, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Automatic Severity Assessment of Dysarthric speech by using Self-supervised Model with Multi-task Learning.&lt;/u&gt; arXiv preprint arXiv:2210.15387.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.&lt;/u&gt; &lt;i&gt;in Proc. O-Cocosda &lt;/i&gt; &lt;b&gt;(Oral, Virtual)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.&lt;/u&gt; &lt;i&gt;in Proc. O-Cocosda &lt;/i&gt; &lt;b&gt;(Oral, Virtual)&lt;/b&gt; &lt;b&gt;(Best Student Paper)&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Choi, K., Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil.&lt;/u&gt; &lt;i&gt;in Proc. APSIPA ASC &lt;/i&gt; &lt;b&gt;(Oral only)&lt;/b&gt;&lt;/p&gt;
 
@@ -33,18 +63,18 @@
  
  <entry>
    <title>Journals</title>
-   <link href="http://localhost:4000/2022/11/25/Journals/"/>
-   <updated>2022-11-25T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/25/Journals</id>
+   <link href="http://localhost:4000/2022/11/23/Journals/"/>
+   <updated>2022-11-23T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/23/Journals</id>
    <content type="html">&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). &lt;u&gt;Automatic severity classification of dysarthria using voice quality, prosody, and pronunciation features.&lt;/u&gt; &lt;i&gt;Phonetics and Speech Sciences, 13&lt;i&gt;(2), 57-66.&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Awards</title>
-   <link href="http://localhost:4000/2022/11/25/Awards/"/>
-   <updated>2022-11-25T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/25/Awards</id>
+   <link href="http://localhost:4000/2022/11/22/Awards/"/>
+   <updated>2022-11-22T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/22/Awards</id>
    <content type="html">&lt;p&gt;&lt;u&gt; 2021 인공지능 데이터 기반 서비스 공모전 &apos;너의 A.Idea가 보여&apos;&lt;/u&gt;, &lt;b&gt;최우수상&lt;/b&gt; 
 (‘I can see your A.Idea’ AI data-based service contest 2021, &lt;b&gt;the grand prize&lt;/b&gt;)&lt;/p&gt;
 
@@ -55,19 +85,19 @@
  </entry>
  
  <entry>
-   <title>Projects</title>
-   <link href="http://localhost:4000/2022/11/24/Projects/"/>
-   <updated>2022-11-24T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/24/Projects</id>
+   <title>Scholarships</title>
+   <link href="http://localhost:4000/2022/11/21/Scholarships/"/>
+   <updated>2022-11-21T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/21/Scholarships</id>
    <content type="html">
 </content>
  </entry>
  
  <entry>
-   <title>Scholarships</title>
-   <link href="http://localhost:4000/2022/11/23/Scholarships/"/>
-   <updated>2022-11-23T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/23/Scholarships</id>
+   <title>Projects</title>
+   <link href="http://localhost:4000/2022/11/20/Projects/"/>
+   <updated>2022-11-20T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/20/Projects</id>
    <content type="html">
 </content>
  </entry>

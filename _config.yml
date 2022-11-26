@@ -17,7 +17,7 @@ author:
   name:           'Eun Jung YEO'
   url:            'https://eunjung31.github.io'
 
-paginate:         5
+paginate:         100
 
 # Custom vars
 version:          1.0.0

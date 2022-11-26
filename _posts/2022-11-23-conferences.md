@@ -7,7 +7,7 @@ Choi, K.*, & <b>Yeo, E. J.*</b> (2022). <u>Opening the Black Box of wav2vec Feat
 
 <b>Yeo, E. J.* </b>, Choi, K.*, Kim, S., & Chung, M. (2022). <u>Automatic Severity Assessment of Dysarthric speech by using Self-supervised Model with Multi-task Learning.</u> arXiv preprint arXiv:2210.15387.
 
-<b>Yeo, E. J.</b>, Kim, S., & Chung, M. (2022). <u>Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.</u> <i>in Proc. O-Cocosda </i> <b>(Oral, Virtual)</b> 
+<b>Yeo, E. J.</b>, Kim, S., & Chung, M. (2022). <u>Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.</u> <i>in Proc. O-Cocosda </i> <b>(Oral, Virtual)</b> <b>(Best Student Paper)</b>
 
 <b>Yeo, E. J.</b>, Choi, K., Kim, S., & Chung, M. (2022). <u>Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil.</u> <i>in Proc. APSIPA ASC </i> <b>(Oral only)</b>
 

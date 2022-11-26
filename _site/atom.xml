@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-27T01:49:38+09:00</updated>
+ <updated>2022-11-27T01:58:51+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -93,7 +93,11 @@ My favorite things are cute animals, fluffy things,
    <link href="http://localhost:4000/2022/11/21/Scholarships/"/>
    <updated>2022-11-21T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/21/Scholarships</id>
-   <content type="html">
+   <content type="html">&lt;ul&gt;
+&lt;li&gt;SNU CORE 장학금 (2019.9-2020.2)&lt;/li&gt;
+&lt;li&gt;SNU 기초학문 후속세대 석사과정 (2020.3-2020.12)&lt;/li&gt;
+&lt;li&gt;SNU 기초학문 후속세대 박사과정 (2021.3-2022.12)&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

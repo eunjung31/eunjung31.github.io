@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-26T12:34:43+09:00</updated>
+ <updated>2022-11-26T12:39:32+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -46,19 +46,11 @@
    <updated>2022-11-25T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/25/Awards</id>
    <content type="html">&lt;p&gt;&lt;u&gt; 2021 인공지능 데이터 기반 서비스 공모전 &apos;너의 A.Idea가 보여&apos;&lt;/u&gt;, &lt;b&gt;최우수상&lt;/b&gt; 
-(‘I can see your A.Idea’ AI data-based service contest 2021, &lt;b&gt; 2nd Place&lt;/b&gt;)&lt;/p&gt;
+(‘I can see your A.Idea’ AI data-based service contest 2021, &lt;b&gt;the grand prize&lt;/b&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;u&gt; 2022 언어 교육용 서양어, 아시아어 사용자의 한국어 음성 데이터 활용 해커톤&lt;/u&gt;, &lt;b&gt;은상&lt;/b&gt;
 (Analysis on L2 Korean speech data from Western and Asian speakers for language education Hackathon 2022, &lt;b&gt; 2nd Place&lt;/b&gt;)&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Scholarships</title>
-   <link href="http://localhost:4000/2022/11/24/Scholarships/"/>
-   <updated>2022-11-24T00:00:00+09:00</updated>
-   <id>http://localhost:4000/2022/11/24/Scholarships</id>
-   <content type="html">
+
 </content>
  </entry>
  
@@ -67,6 +59,15 @@
    <link href="http://localhost:4000/2022/11/24/Projects/"/>
    <updated>2022-11-24T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/24/Projects</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scholarships</title>
+   <link href="http://localhost:4000/2022/11/23/Scholarships/"/>
+   <updated>2022-11-23T00:00:00+09:00</updated>
+   <id>http://localhost:4000/2022/11/23/Scholarships</id>
    <content type="html">
 </content>
  </entry>

@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-26T16:53:28+09:00</updated>
+ <updated>2022-11-27T00:43:13+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -18,10 +18,13 @@
    <updated>2022-11-26T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/26/about</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-Hey there! I am a linguist interested in technologies for atypical speech.
-Here, atypcial speech includes disorder speech (mainly dysarthric speech) and L2 speech.
+Hey there! I am a linguist interested in technologies for atypical speech, including disorder speech (mainly dysarthric speech) and L2 speech.
 My passion is to build a better world where everyone can convey their messages towards the world.
 &lt;/p&gt;
+
+&lt;!-- &lt;p class=&quot;message&quot;&gt;
+My favorite things are cute animals, fluffy things,
+&lt;/p&gt; --&gt;
 </content>
  </entry>
  
@@ -31,13 +34,13 @@ My passion is to build a better world where everyone can convey their messages t
    <updated>2022-11-25T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/25/BriefBio</id>
    <content type="html">&lt;li&gt;
-&lt;b&gt;PhD candiate&lt;/b&gt; in Linguistics (Spoken Language Processing) @ Seoul National University, 2021.3 - Current
+&lt;b&gt;PhD candiate&lt;/b&gt; in &lt;a href=&quot;https://linguist.snu.ac.kr/&quot;&gt;Linguistics&lt;/a&gt;  @Seoul National University (Spoken Language Processing), 2021.3 - Current
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;MA&lt;/b&gt; in Linguistics (Spoken Language Processing) @ Seoul National University, 2019.3-2021.2
+&lt;b&gt;MA&lt;/b&gt; in &lt;a href=&quot;https://linguist.snu.ac.kr/&quot;&gt;Linguistics&lt;/a&gt;  @Seoul National University(Spoken Language Processing), 2019.3-2021.2
 &lt;/li&gt;
 &lt;li&gt;
-&lt;b&gt;BA&lt;/b&gt; in Korean Language and Literature, &amp;amp; Psychology @ Yonsei University, 2014.3-2018.2
+&lt;b&gt;BA&lt;/b&gt; in &lt;a href=&quot;https://koreanlit.yonsei.ac.kr/korean/index.do&quot;&gt;Korean Language and Literature&lt;/a&gt;, &amp;amp; &lt;a href=&quot;https://psychsci.yonsei.ac.kr/&quot;&gt;Psychology&lt;/a&gt; @ Yonsei University, 2014.3-2018.2
 &lt;/li&gt;
 </content>
  </entry>
@@ -47,17 +50,17 @@ My passion is to build a better world where everyone can convey their messages t
    <link href="http://localhost:4000/2022/11/23/conferences/"/>
    <updated>2022-11-23T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/23/conferences</id>
-   <content type="html">&lt;p&gt;Choi, K.*, &amp;amp; &lt;b&gt;Yeo, E. J.*&lt;/b&gt; (2022). &lt;u&gt;Opening the Black Box of wav2vec Feature Encoder.&lt;/u&gt; arXiv preprint arXiv:2210.15386.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Choi, K.*, &amp;amp; &lt;b&gt;Yeo, E. J.*&lt;/b&gt; (2022). &lt;a href=&quot;https://arxiv.org/pdf/2210.15386.pdf&quot;&gt;Opening the Black Box of wav2vec Feature Encoder.&lt;/a&gt; arXiv preprint arXiv:2210.15386. &lt;a href=&quot;https://github.com/juice500ml/unbox-w2v-convnet&quot;&gt;[Github]&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Yeo, E. J.* &lt;/b&gt;, Choi, K.*, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Automatic Severity Assessment of Dysarthric speech by using Self-supervised Model with Multi-task Learning.&lt;/u&gt; arXiv preprint arXiv:2210.15387.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Yeo, E. J.* &lt;/b&gt;, Choi, K.*, Kim, S., &amp;amp; Chung, M. (2022).  &lt;a href=&quot;https://arxiv.org/pdf/2210.15387.pdf&quot;&gt;Automatic Severity Assessment of Dysarthric speech by using Self-supervised Model with Multi-task Learning.&lt;/a&gt; arXiv preprint arXiv:2210.15387. &lt;a href=&quot;https://github.com/juice500ml/dysarthria-mtl&quot;&gt;[Github]&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.&lt;/u&gt; &lt;i&gt;in Proc. O-Cocosda &lt;/i&gt; &lt;b&gt;(Oral, Virtual)&lt;/b&gt; &lt;b&gt;(Best Student Paper)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2022). &lt;a href=&quot;https://arxiv.org/pdf/2209.13260.pdf&quot;&gt;Multilingual analysis of intelligibility classification using English, Korean, and Tamil dysarthric speech datasets.&lt;/a&gt; &lt;i&gt;in Proc. O-Cocosda &lt;/i&gt; &lt;b&gt;(Oral, Virtual)&lt;/b&gt; &lt;b&gt;(Best Student Paper)&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Choi, K., Kim, S., &amp;amp; Chung, M. (2022). &lt;u&gt;Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil.&lt;/u&gt; &lt;i&gt;in Proc. APSIPA ASC &lt;/i&gt; &lt;b&gt;(Oral only)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Choi, K., Kim, S., &amp;amp; Chung, M. (2022). &lt;a href=&quot;https://arxiv.org/pdf/2209.12942.pdf&quot;&gt;Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil.&lt;/a&gt; &lt;i&gt;in Proc. APSIPA ASC &lt;/i&gt; &lt;b&gt;(Oral only)&lt;/b&gt; &lt;a href=&quot;https://github.com/eunjung31/crossLingual-XGBoost&quot;&gt;[Github]&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). &lt;u&gt;Automatic Severity Classification of Korean Dysarthric Speech Using Phoneme-Level Pronunciation Features,&lt;/u&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). &lt;a href=&quot;https://www.researchgate.net/profile/Eunjung-Yeo/publication/354220175_Automatic_Severity_Classification_of_Korean_Dysarthric_Speech_Using_Phoneme-Level_Pronunciation_Features/links/612d0652c69a4e48796baf13/Automatic-Severity-Classification-of-Korean-Dysarthric-Speech-Using-Phoneme-Level-Pronunciation-Features.pdf&quot;&gt;Automatic Severity Classification of Korean Dysarthric Speech Using Phoneme-Level Pronunciation Features,&lt;/a&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Hernandez, A., &lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2020, September). &lt;u&gt;Dysarthria Detection and Severity Assessment Using Rhythm-Based Metrics.&lt;/u&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hernandez, A., &lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2020, September).  &lt;a href=&quot;http://www.interspeech2020.org/uploadfile/pdf/Wed-2-10-5.pdf&quot;&gt;Dysarthria Detection and Severity Assessment Using Rhythm-Based Metrics.&lt;/a&gt; &lt;i&gt;in Proc. Interspeech&lt;/i&gt; &lt;b&gt;(Poster, Virtual)&lt;/b&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -66,7 +69,8 @@ My passion is to build a better world where everyone can convey their messages t
    <link href="http://localhost:4000/2022/11/23/Journals/"/>
    <updated>2022-11-23T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/23/Journals</id>
-   <content type="html">&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021). &lt;u&gt;Automatic severity classification of dysarthria using voice quality, prosody, and pronunciation features.&lt;/u&gt; &lt;i&gt;Phonetics and Speech Sciences, 13&lt;i&gt;(2), 57-66.&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;b&gt;Yeo, E. J.&lt;/b&gt;, Kim, S., &amp;amp; Chung, M. (2021).  &lt;a href=&quot;https://koreascience.kr/article/JAKO202120461873885.pdf&quot;&gt;Automatic severity classification of dysarthria using voice quality, prosody, and pronunciation features.&lt;/a&gt; &lt;i&gt;Phonetics and Speech Sciences, 13&lt;i&gt;(2), 57-66.&lt;/i&gt;&lt;/i&gt;&lt;/p&gt;
+
 </content>
  </entry>
  
@@ -98,7 +102,13 @@ My passion is to build a better world where everyone can convey their messages t
    <link href="http://localhost:4000/2022/11/20/Projects/"/>
    <updated>2022-11-20T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/20/Projects</id>
-   <content type="html">
+   <content type="html">&lt;ul&gt;
+    &lt;li&gt;한국인 학습자의 프랑스어 모음 발화 연구(2019.8-9)&lt;/li&gt;
+	&lt;li&gt;사회적 소통 약자의 접근성을 고려한 지능형 도구 기반 콘텐츠 제작 및 향유 지원 기술 개발 (2019.9-2021.12)&lt;/li&gt;
+ 	&lt;li&gt;언어교육용 한국인의 외국어 음성 데이터(2022.1-2022.12)&lt;/li&gt;
+    &lt;li&gt;언어교육용 서양어, 아시아어 사용자의 한국어 음성 데이터(2022.1-2022.12)&lt;/li&gt;   
+	
+&lt;/ul&gt;
 </content>
  </entry>
  

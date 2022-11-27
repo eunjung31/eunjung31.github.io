@@ -12,8 +12,14 @@
     </div>
 
     <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/26/about/">About me</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/25/BriefBio/">Brief Bio</a>
+      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/23/conferences/">Conferences</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/23/Journals">Journals</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/25/Awards/">Awards</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/25/Scholarships/">Scholarships</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/25/Projects/">Projects</a> -->
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -28,23 +34,6 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="2022/11/26/about/index.html">About Me</a>
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="2022/11/25/BriefBio/index.html">Brief Bio</a>
-       -->
-       <!-- <a class="sidebar-nav-item" href="{{ site.baseurl }}">Home</a> -->
-       <!-- <a class="sidebar-nav-item" href="2022/11/26/about/index.html">About Me</a>
-       <a class="sidebar-nav-item" href="2022/11/25/BriefBio/index.html">Brief Bio</a> -->
-       
-      <!-- <a class="sidebar-nav-item" href="2022/11/23/conferences/index.html">Conferences</a>
-      <a class="sidebar-nav-item" href="2022/11/23/Journals/index.html">Journals</a>
-      <a class="sidebar-nav-item" href="2022/11/22/Awards/index.html">Awards</a>
-      <a class="sidebar-nav-item" href="2022/11/25/BriefBio/index.html">Scholarhips</a>
-      <a class="sidebar-nav-item" href="2022/11/26/about/index.html">Projects</a> -->
-
-
-      <!-- <a class="sidebar-nav-item" href="{{https://github.com/eunjung31}}">GitHub</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

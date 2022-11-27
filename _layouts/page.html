@@ -7,10 +7,10 @@ layout: default
   {{ content }}
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
+<!-- <div class="related">
+  <h2>Related Pages</h2>
   <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
+    {% for post in site.related_posts limit:2 %}
       <li>
         <h3>
           <a href="{{ post.url }}">
@@ -19,5 +19,21 @@ layout: default
         </h3>
       </li>
     {% endfor %}
+  </ul>
+</div> -->
+
+<div class="related">
+  <h2>Related Pages</h2>
+  <ul class="related-posts">
+      <li>
+        <h3>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/23/conferences/">Conferences</a>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/23/Journals">Journals</a>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/22/Awards/">Awards</a>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/21/Scholarships/">Scholarships</a>
+          <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/2022/11/20/Projects/">Projects</a>
+          <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a> -->
+            </h3>
+      </li>
   </ul>
 </div>

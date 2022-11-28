@@ -4,7 +4,7 @@
  <title>Eun Jung YEO</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-11-27T14:25:48+09:00</updated>
+ <updated>2022-11-28T20:08:32+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Eun Jung YEO</name>
@@ -18,7 +18,7 @@
    <updated>2022-11-26T00:00:00+09:00</updated>
    <id>http://localhost:4000/2022/11/26/about</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;
-Hey there! I am a linguist interested in technologies for atypical speech, including disorder speech (mainly dysarthric speech) and L2 speech.
+Hey there! I am a linguist interested in technologies for atypical speech, which includes disorder speech (mainly dysarthric speech) and L2 speech (L2 Korean from learners with various L1 backgrounds or L2 English from Korean learners).
 My passion comes from making a better world where everyone can convey their messages towards the world.
 &lt;/p&gt;
 

@@ -2,7 +2,7 @@
 layout: page
 title: Conferences
 ---
-<b>Yeo, E. J.</b>, Ryu, H, Lee, J, Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. <i>in Proc. ICPhS</i> <b>(Poster)</b>
+<b>Yeo, E. J.*</b>, Ryu, H*, Lee, J, Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. <i>in Proc. ICPhS</i> <b>(Poster)</b>
 
 Choi, K.*, & <b>Yeo, E. J.*</b> (2022). <a href="https://arxiv.org/pdf/2210.15386.pdf">Opening the Black Box of wav2vec Feature Encoder.</a> arXiv preprint arXiv:2210.15386. <a href="https://github.com/juice500ml/unbox-w2v-convnet">[Github]</a>
 

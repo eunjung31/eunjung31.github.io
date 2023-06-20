@@ -2,8 +2,7 @@
 layout: page
 title: Conferences
 ---
-
-Yeo, E. J., Choi, K., Kim, S., & Chung, M. (2023). Speech Intelligibility Assessment of Dysarthric Speech by using Goodness of Pronunciation with Uncertainty Quantification. <i>in Proc. Interspeech 2023</i>
+<b>Yeo, E. J.* </b>, Choi, K.*, Kim, S., & Chung, M. (2023). <a href=https://arxiv.org/pdf/2305.18392.pdf>Speech Intelligibility Assessment of Dysarthric Speech by using Goodness of Pronunciation with Uncertainty Quantification.</a> <i>in Proc. Interspeech 2023</i>
 
 <b>Yeo, E. J.* </b>, Ryu, H*, Lee, J, Kim, S., & Chung, M. (2023). Comparison of L2 Korean Pronunciation Error Patterns from Five L1 Backgrounds by using Automatic Phonetic Transcription. <i>in Proc. ICPhS 2023</i> <b>(Poster)</b>
 

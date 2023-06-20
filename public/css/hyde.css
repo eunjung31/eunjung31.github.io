@@ -70,7 +70,7 @@
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 58em) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -145,7 +145,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 58em) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
@@ -170,7 +170,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 58em) {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;

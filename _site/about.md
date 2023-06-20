@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-Hey there! I am a linguist interested in technologies for atypical speech.
+I am a linguist interested in technologies for atypical speech.
 Here, atypcial speech includes disorder speech (mainly dysarthric speech) and L2 speech.
 My passion is to build a better world where everyone can convey their messages towards the world.
 </p>

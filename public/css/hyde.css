@@ -136,7 +136,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    max-width: 60rem;
+    max-width: 50rem;
     margin-left: 50rem;
     margin-right: 0;
   }
@@ -148,26 +148,6 @@ a.sidebar-nav-item:focus {
  *
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
-
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: auto;
-    margin-right: auto;
-  }
-}
-
-
 
 /*
  * Themes

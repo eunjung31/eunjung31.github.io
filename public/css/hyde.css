@@ -70,17 +70,6 @@
   }
 }
 
-@media (min-width: 64em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 20rem;
-    text-align: left;
-  }
-}
-
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -148,7 +137,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64em) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 10rem;
   }
 }
 

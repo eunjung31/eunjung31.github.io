@@ -129,15 +129,15 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 30rem;
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 4rem;
-    margin-right: 4rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
@@ -154,15 +154,15 @@ a.sidebar-nav-item:focus {
     right: 0;
   }
   .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 
 @media (min-width: 64em) {
   .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

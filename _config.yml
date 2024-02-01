@@ -7,14 +7,14 @@ plugins: [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Eun Jung YEO
+title:            Eunjung YEO
 #tagline:          'A Jekyll theme'
 description:      'PhD candidate, Seoul National University'
 #url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Eun Jung YEO'
+  name:           'Eunjung YEO'
   url:            'https://eunjung31.github.io'
 
 paginate:         100

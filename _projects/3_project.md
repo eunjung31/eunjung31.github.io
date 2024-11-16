@@ -1,6 +1,6 @@
 ---
 layout: page
-title: automatic analysis on cognitive decline
+title: acoustic analysis of pathological speech
 description: a project that redirects to another website
 img: assets/img/7.jpg
 importance: 3

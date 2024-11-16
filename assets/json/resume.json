@@ -180,12 +180,12 @@
     {
       "title": "Academic excellence award (top 1%)",
       "awarder": "Yonsei University",
-      "date": "Spring 2014; Spring 2017"
+      "summary": "Spring 2014; Spring 2017"
     },
     {
       "title": "Academic excellence award (top 10%)",
       "awarder": "Yonsei University",
-      "date": "Fall 2015; Spring 2016; Fall 2017"
+      "summary": "Fall 2015; Spring 2016; Fall 2017"
     }
   ],
   "grants/scholarships": [

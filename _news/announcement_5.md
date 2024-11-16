@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented two papers at SANE (Speech and Audio in the Northeast) workshop, held in Boston.
+Presented two papers at SANE (Speech and Audio in the Northeast) workshop, held in Boston. [[paper1]](../assets/pdf/SANE_2024__Allophonic_Representations_in_S3Ms_for_Atypical_Pronunciation_Assessment.pdf)  [[paper2]](../assets/pdf/SANE_2024__Self_supervised_Speech_Models_Rediscover_Phonemes.pdf)

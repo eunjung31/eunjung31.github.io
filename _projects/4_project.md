@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: emergent phonemes
 description: another without an image
-img:
+img: assets/img/7.jpg
 importance: 3
-category: fun
+category: computational linguistics
 ---
 
 Every project has a beautiful feature showcase page.

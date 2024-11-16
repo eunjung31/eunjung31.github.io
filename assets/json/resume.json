@@ -19,6 +19,29 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "Speech AI for atypcial speech",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Dysarthric speech assessment",
+        "Intelligibility assessment",
+        "Cross-language assessment",
+        "Non-native speech assessment",
+        "Automatic phone recognition",
+        "Automatic speech recognition"
+      ]
+    },
+    {
+      "name": "Computational Linguistics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Computational Phonetics",
+        "Computational Phonology",
+        "Interpretability of speech AI models"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Seoul National University",
@@ -299,29 +322,6 @@
       "language": "German",
       "fluency": "Reading",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Speech AI for atypcial speech",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Dysarthric speech assessment",
-        "Intelligibility assessment",
-        "Cross-language assessment",
-        "Non-native speech assessment",
-        "Automatic phone recognition",
-        "Automatic speech recognition"
-      ]
-    },
-    {
-      "name": "Computational Linguistics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computational Phonetics",
-        "Computational Phonology",
-        "Interpretability of speech AI models"
-      ]
     }
   ]
 }

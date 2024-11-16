@@ -19,6 +19,35 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Seoul National University",
+      "location": "Seoul, Republic of Korea",
+      "area": "Computational Linguistics (spoken language processing)",
+      "studyType": "Ph.D.",
+      "startDate": "2021-03",
+      "endDate": "2024-08",
+      "courses": ["Speech AI for atypical speech", "Multilingual assessment for pathological speech"]
+    },
+    {
+      "institution": "Seoul National University",
+      "location": "Seoul, Republic of Korea",
+      "area": "Computational Linguistics (spoken language processing)",
+      "studyType": "M.A.",
+      "startDate": "2019-03",
+      "endDate": "2021-02",
+      "courses": ["Speech AI for Korean Dysarthric Speech"]
+    },
+    {
+      "institution": "Yonsei University",
+      "location": "Seoul, Republic of Korea",
+      "area": "Korean Language and Literature, Psychology",
+      "studyType": "B.A.",
+      "startDate": "2019-03",
+      "endDate": "2021-02",
+      "courses": ["Korean Linguistics", "Education", "Human Development"]
+    }
+  ],
   "Research Experience": [
     {
       "name": "ChangeLing Lab, Language Technologies Institute, Carnegie Mellon University",
@@ -60,66 +89,6 @@
       "endDate": "2017",
       "summary": "Collected children's behavior data.",
       "highlights": ["Language development", "Moral development"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Interspeech, ICASSP, ACL (emergency review), JSLHR",
-      "position": "Reviewer",
-      "url": "https://example.com",
-      "startDate": "2024",
-      "endDate": "Current",
-      "summary": "Reviewer for top speech conferences, sometimes NLP conferences, and speech pathology journals."
-    },
-    {
-      "organization": "Linguistic Research Society, Seoul National University",
-      "position": "General Affairs",
-      "startDate": "2021",
-      "endDate": "2022",
-      "summary": "General affairs of the Linguistics Department Graduate Student Association."
-    },
-    {
-      "organization": "Hearing Rehabilitation Center KT Dream Class, Severance Hospital",
-      "position": "Volunteer",
-      "startDate": "2017",
-      "endDate": "2017",
-      "summary": "Volunteer in art, music, and speech pathology classes for hearing rehabilitation children."
-    },
-    {
-      "organization": "College Residents' Association",
-      "position": "Volunteer",
-      "startDate": "2017",
-      "endDate": "2017",
-      "summary": "Student Council at Yongjae House."
-    }
-  ],
-  "education": [
-    {
-      "institution": "Seoul National University",
-      "location": "Seoul, Republic of Korea",
-      "area": "Computational Linguistics (spoken language processing)",
-      "studyType": "Ph.D.",
-      "startDate": "2021-03",
-      "endDate": "2024-08",
-      "courses": ["Speech AI for atypical speech", "Multilingual assessment for pathological speech"]
-    },
-    {
-      "institution": "Seoul National University",
-      "location": "Seoul, Republic of Korea",
-      "area": "Computational Linguistics (spoken language processing)",
-      "studyType": "M.A.",
-      "startDate": "2019-03",
-      "endDate": "2021-02",
-      "courses": ["Speech AI for Korean Dysarthric Speech"]
-    },
-    {
-      "institution": "Yonsei University",
-      "location": "Seoul, Republic of Korea",
-      "area": "Korean Language and Literature, Psychology",
-      "studyType": "B.A.",
-      "startDate": "2019-03",
-      "endDate": "2021-02",
-      "courses": ["Korean Linguistics", "Education", "Human Development"]
     }
   ],
   "projects": [
@@ -194,6 +163,37 @@
       "title": "Academic excellence award (top 10%)",
       "awarder": "Yonsei University",
       "summary": "Academic excellence award at Fall 2015; Spring 2016; Fall 2017."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Interspeech, ICASSP, ACL (emergency review), JSLHR",
+      "position": "Reviewer",
+      "url": "https://example.com",
+      "startDate": "2024",
+      "endDate": "Current",
+      "summary": "Reviewer for top speech conferences, sometimes NLP conferences, and speech pathology journals."
+    },
+    {
+      "organization": "Linguistic Research Society, Seoul National University",
+      "position": "General Affairs",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "General affairs of the Linguistics Department Graduate Student Association."
+    },
+    {
+      "organization": "Hearing Rehabilitation Center KT Dream Class, Severance Hospital",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Volunteer in art, music, and speech pathology classes for hearing rehabilitation children."
+    },
+    {
+      "organization": "College Residents' Association",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Student Council at Yongjae House."
     }
   ],
   "skills": [

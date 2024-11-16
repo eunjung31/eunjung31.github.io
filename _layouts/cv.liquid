@@ -105,10 +105,11 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
-                {% when 'grants/scholarships' %}
+                {% when 'grants' %}
                   {% include resume/grants.liquid %}
+                {% when 'teaching' %}
+                  {% include resume/teaching.liquid %}
                 {% else %}
-
               {% endcase %}
             </div>
           </div>

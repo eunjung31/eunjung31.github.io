@@ -157,19 +157,72 @@
     {
       "title": "Academic excellence award (top 1%)",
       "awarder": "Yonsei University",
-      "summary": "Academic excellence award at Spring 2014; Spring 2017."
+      "date": "Spring 2014; Spring 2017"
     },
     {
       "title": "Academic excellence award (top 10%)",
       "awarder": "Yonsei University",
-      "summary": "Academic excellence award at Fall 2015; Spring 2016; Fall 2017."
+      "date": "Fall 2015; Spring 2016; Fall 2017"
     }
   ],
+  "grants/scholarships": [
+    {
+      "title": "Youlchon AI Young Researcher Scholarship",
+      "date": "2023",
+      "awarder": "Youlchon AI Scholarship"
+    },
+    {
+      "title": "Travel Grant",
+      "date": "2023",
+      "awarder": "College of Humanities, Seoul National University",
+      "event": "Interspeech 2023"
+    },
+    {
+      "title": "Travel Grant",
+      "date": "2023",
+      "awarder": "Linguistics Department, Seoul National University",
+      "event": "ICPhS 2023"
+    },
+    {
+      "title": "GSI Scholarship",
+      "date": "Spring 2023",
+      "awarder": "Linguistics Department, Seoul National University"
+    },
+    {
+      "title": "Subsequent Generations of Basic Studies",
+      "date": "Spring 2021 – Fall 2022",
+      "awarder": "Seoul National University"
+    },
+    {
+      "title": "Subsequent Generations of Basic Studies",
+      "date": "Spring – Fall 2020",
+      "awarder": "Seoul National University"
+    },
+    {
+      "title": "SNU CORE Academic Funding",
+      "date": "Spring – Fall 2019",
+      "awarder": "Seoul National University"
+    },
+    {
+      "title": "College of Liberal Arts Alumni Association Scholarship",
+      "date": "Fall 2014",
+      "awarder": "Yonsei University"
+    },
+    {
+      "title": "National Grant for Academic Excellence",
+      "date": "Spring 2016",
+      "awarder": "Korea Student Aid Foundation"
+    },
+    {
+      "title": "Scholarship for Academic Excellence",
+      "date": "Spring 2015 – Fall 2016, Fall 2017",
+      "awarder": "Yonsei University"
+    }
+  ],  
   "volunteer": [
     {
       "organization": "Interspeech, ICASSP, ACL (emergency review), JSLHR",
       "position": "Reviewer",
-      "url": "https://example.com",
       "startDate": "2024",
       "endDate": "Current",
       "summary": "Reviewer for top speech conferences, sometimes NLP conferences, and speech pathology journals."

@@ -12,3 +12,15 @@
 "watanabe":
   - firstname: ["Shinji"]
     url: https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en
+
+"bjorndahl":
+  - firstname: ["Christina"]
+    url: https://christinabjorndahl.com/
+
+"cho":
+  - firstname: ["Sunghye"]
+    url: https://www.sunghyecho.com/
+
+"baek":
+  - firstname: ["Min Seok", "Minseok", "Min-Seok", "M. S."]
+    url: https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ

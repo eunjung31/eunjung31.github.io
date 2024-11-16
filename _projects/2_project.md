@@ -7,10 +7,11 @@ importance: 1
 category: speech pathology
 ---
 
-{% cite yeo2023speech %}
-{% cite yeo2023automatic %}
-{% cite lee2023knowledge %}
-{% cite yeo2021automatic %}
-{% cite yeo2021automatic2 %}
-{% cite hernandez2020dysarthria %}
+The primary method for diagnosing speech pathologies has traditionally relied on perceptual analysis. However, recent advancements in speech AI provide valuable tools to support clinicians in their decision-making processes. Since my graduate studies, I have focused on analyzing speech features associated with motor speech disorders, particularly dysarthric speech. I am continuing this work at Carnegie Mellon University advised by [Dr. Christina Bjorndahl](https://christinabjorndahl.com/) in the Philosophy Department, with a special emphasis on the acoustic properties of fricatives.
+
+In addition, I am expanding my research into cognitive disorders, particularly mild cognitive impairment, in collaboration with [Dr. Sunghye Cho](https://www.sunghyecho.com/) at the University of Pennsylvania's Linguistics Department and [Dr. Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ) at Yonsei University's Wonju College of Medicine.
+
+Relevant publications include {% cite yeo2021automatic %}, {% cite yeo2021automatic2 %}, {% cite yeo2023automatic %}, and {% cite yeo2023automatic %}, which focus on automatic intelligibility assessments of Korean dysarthric speech. Furthermore, in {% cite lee2023knowledge %}, a protocol originally proposed for dysarthric speech was adapted to explore its applicability in diagnosing autistic children by analyzing their speech characteristics.
+
+
 

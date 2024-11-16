@@ -19,11 +19,11 @@
 
 "liss":
   - firstname: ["Julie"]
-    url: https://www.linkedin.com/in/chin-jou-li
+    url: https://search.asu.edu/profile/50291
 
 "berisha":
   - firstname: ["Visar"]
-    url: https://www.linkedin.com/in/chin-jou-li
+    url: https://scholar.google.com/citations?user=MQBn718AAAAJ&hl=en
 
 "cho":
   - firstname: ["Sunghye"]
@@ -33,6 +33,6 @@
   - firstname: ["Min Seok", "Minseok", "Min-Seok", "M. S."]
     url: https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ
 
-"lee":
+"li":
   - firstname: ["Chin-Jou", "Chin Jou", "C. J."]
     url: https://www.linkedin.com/in/chin-jou-li

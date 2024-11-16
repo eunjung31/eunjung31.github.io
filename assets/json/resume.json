@@ -274,7 +274,7 @@
   ],
   "teaching":[
     {
-      "category": "Teaching Assistant",
+      "name": "Teaching Assistant",
       "icon": "fa-solid fa-chalkboard-teacher",
       "keywords": [
         "Introduction to Speech and Language Processing (Spring 2023)",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "category": "Invited Talks",
+      "name": "Invited Talks",
       "icon": "fa-solid fa-microphone",
       "keywords": [
         "Introducing OpenAI Whisper @ Korea Development Bank; Korean National Police University (2023)",
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "category": "Mentorship",
+      "name": "Mentorship",
       "icon": "fa-solid fa-users",
       "keywords": [
         "Graduate-Undergraduate student mentoring @ SNU (2019)",

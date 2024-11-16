@@ -1,6 +1,6 @@
 "choi":
   - firstname: ["Kwanghee"]
-    url: https://kwangheechoi.notion.site/Kwanghee-Choi-9250bb79f1664e5b8e8c5553adf20068/
+    url: https://kwangheechoi.com
 "chang":
   - firstname: ["Kalvin"]
     url: https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en
@@ -17,6 +17,14 @@
   - firstname: ["Christina"]
     url: https://christinabjorndahl.com/
 
+"liss":
+  - firstname: ["Julie"]
+    url: https://www.linkedin.com/in/chin-jou-li
+
+"berisha":
+  - firstname: ["Visar"]
+    url: https://www.linkedin.com/in/chin-jou-li
+
 "cho":
   - firstname: ["Sunghye"]
     url: https://www.sunghyecho.com/
@@ -24,3 +32,7 @@
 "baek":
   - firstname: ["Min Seok", "Minseok", "Min-Seok", "M. S."]
     url: https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ
+
+"lee":
+  - firstname: ["Chin-Jou", "Chin Jou", "C. J."]
+    url: https://www.linkedin.com/in/chin-jou-li

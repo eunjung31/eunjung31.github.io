@@ -179,11 +179,13 @@
     },
     {
       "title": "Academic excellence award (top 1%)",
+      "date": "2014-2017",
       "awarder": "Yonsei University",
       "summary": "Spring 2014; Spring 2017"
     },
     {
       "title": "Academic excellence award (top 10%)",
+      "date": "2014-2017",
       "awarder": "Yonsei University",
       "summary": "Fall 2015; Spring 2016; Fall 2017"
     }
@@ -213,7 +215,7 @@
     },
     {
       "title": "Subsequent Generations of Basic Studies",
-      "date": "Spring 2021 – Fall 2022",
+      "date": "2021 – Fall 2022",
       "awarder": "Seoul National University"
     },
     {
@@ -238,8 +240,8 @@
     },
     {
       "title": "Scholarship for Academic Excellence",
-      "date": "Spring 2015 – Fall 2016, Fall 2017",
-      "awarder": "Yonsei University"
+      "date": "2014-2017",
+      "awarder": "Yonsei University; Spring 2015 – Fall 2016, Fall 2017"
     }
   ],  
   "volunteer": [

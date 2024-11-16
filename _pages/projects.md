@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Ongoing ChangeLing Lab Projects
 nav: true
 nav_order: 3
-display_categories: [speech pathology, computational linguistics, L2 speech]
+display_categories: [speech pathology, computational linguistics, L2 education]
 horizontal: false
 ---
 

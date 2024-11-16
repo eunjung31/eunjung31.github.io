@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Incorporated Korean G2P in [Epitran](https://github.com/dmort27/epitran) with my dear colleague, [Kwanghee Choi](https://scholar.google.com/citations?user=IGXBRggAAAAJ&hl=en)!
+Incorporated Korean G2P in [Epitran](https://github.com/dmort27/epitran) with my dear colleague, [Kwanghee Choi](kwangheechoi.com).

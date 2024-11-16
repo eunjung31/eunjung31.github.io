@@ -1,48 +1,67 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eunjung Yeo",
+    "label": "Researcher, Computational Linguist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "eyeo2@andrew.cmu.edu",
+    "summary": "A computational linguist specializing in Speech AI applications for pathological speech, with a strong focus on computational phonetics and phonology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Gates Hillman Complex, 4902 Forbes Ave, Pittsburgh",
+      "postalCode": "PA 15213",
+      "city": "Pittsburgh",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Eunjung Yeo",
+        "url": "https://www.linkedin.com/in/eunjung-yeo-078776194/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Language Technologies Institute, Carnegie Mellon University",
+      "position": "Visiting Scholar",
+      "url": "https://changelinglab.github.io/",
+      "startDate": "2024-02-15",
+      "endDate": "2026-02-14",
+      "summary": "Research on computational phonetics and phonology, with a special focus on speech AI applications for pathological speech.",
+      "highlights": ["Cross Language Intelligibility Assessment for Dysarthric Speech", "Universal Phone Recognition"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Interspeech, ICASSP, ACL (emergency review), JSLHR",
+      "position": "Reviewer",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2024",
+      "endDate": "Current",
+      "summary": "Reviewer for top speech conferences, sometimes NLP conferences, and speech pathology journals."
+    },
+    {
+      "organization": "Linguistic Research Society, Seoul National University",
+      "location": "Seoul, Republic of Korea",
+      "position": "General Affairs",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "General affairs of the Linguistics Department Graduate Student Association."
+    },
+    {
+      "organization": "Hearing Rehabilitation Center KT Dream Class, Severance Hospital",
+      "location": "Severance Hospital, Seoul, Republic of Korea",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Volunteer in art, music, and speech pathology classes for hearing rehabilitation children."
+    },
+    {
+      "organization": "College Residents' Association",
+      "location": "Incheon, Republic of Korea",
+      "position": "Volunteer",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Volunteer in art, music, and speech pathology classes for hearing rehabilitation children."
     }
   ],
   "education": [

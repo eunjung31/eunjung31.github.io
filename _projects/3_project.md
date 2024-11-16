@@ -1,6 +1,6 @@
 ---
 layout: page
-title: acoustic analysis of pathological speech
+title: Acoustic Analysis of Pathological Speech
 description: a project that redirects to another website
 img: assets/img/7.jpg
 importance: 3

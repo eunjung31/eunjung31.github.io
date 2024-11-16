@@ -1,9 +1,9 @@
 ---
 layout: page
-title: universal phone recognition
+title: Universal Phone Recognition
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 3
+importance: 5
 category: computational linguistics
 ---
 

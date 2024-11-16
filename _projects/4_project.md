@@ -1,9 +1,9 @@
 ---
 layout: page
-title: emergent phonemes
+title: Interpreting Neural Networks
 description: another without an image
 img: assets/img/7.jpg
-importance: 3
+importance: 5
 category: computational linguistics
 ---
 

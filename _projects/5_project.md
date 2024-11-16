@@ -16,4 +16,4 @@ related_publications: true
 * [Epitran](http://www.lrec-conf.org/proceedings/lrec2018/pdf/890.pdf), G2P for Many Languages
 
 
-We are currently advancing research on a universal phone recognizer as a follow-up study to *Allosaurus*, aiming to expand its capabilities and applications. :mouse:
+We are currently advancing research on a universal phone recognizer as a follow-up study to *Allosaurus*, aiming to expand its capabilities and applications. :mouse2:

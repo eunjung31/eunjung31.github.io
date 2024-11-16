@@ -188,7 +188,7 @@
       "summary": "Fall 2015; Spring 2016; Fall 2017"
     }
   ],
-  "grants/scholarships": [
+  "scholarships": [
     {
       "title": "Youlchon AI Young Researcher Scholarship",
       "date": "2023",
@@ -272,6 +272,34 @@
       "summary": "Student Council at Yongjae House."
     }
   ],
+  "teaching":[
+    {
+      "category": "Teaching Assistant",
+      "icon": "fa-solid fa-chalkboard-teacher",
+      "keywords": [
+        "Introduction to Speech and Language Processing (Spring 2023)",
+        "Introduction to Computational Linguistics (Spring 2022)",
+        "Bilingualism (Spring 2021; Fall 2021; Fall 2022)",
+        "Introduction to Linguistics (Spring 2020; Fall 2020)"
+      ]
+    },
+    {
+      "category": "Invited Talks",
+      "icon": "fa-solid fa-microphone",
+      "keywords": [
+        "Introducing OpenAI Whisper @ Korea Development Bank; Korean National Police University (2023)",
+        "Cross-lingual Dysarthria Severity Classification for English, Korean, and Tamil @ SNU (2022)"
+      ]
+    },
+    {
+      "category": "Mentorship",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+        "Graduate-Undergraduate student mentoring @ SNU (2019)",
+        "Undergraduate-High school student mentoring @ Yonsei University (2017)"
+      ]
+    }
+  ],  
   "skills": [
     {
       "name": "ML Libraries",

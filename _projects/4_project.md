@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Understanding Nerual Networks
+title: Understanding Neural Networks
 description: Analysis on neural network representations and capabilities
 img: assets/img/4.jpg
 importance: 1

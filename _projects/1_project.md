@@ -10,7 +10,7 @@ related_publications: true
 
 Since the beginning of my Ph.D. journey, I have dedicated my research to advancing cross-language intelligibility assessment for dysarthric speech. Despite significant strides in speech AI, much of the technology remains heavily biased toward English, leaving speakers of low-resource languages underserved. By developing cross-language intelligibility assessment tools, I aim to bridge this gap, ensuring equitable access to speech AI for individuals with speech pathologies across diverse linguistic backgrounds. 
 
-I am currently continuing this research advised by [Dr. David Mortensen](https://www.cs.cmu.edu/~dmortens/) at CMU LTI, [Dr. Julie Liss](https://search.asu.edu/profile/50291) at Arizona State University's College of Health Solutions, and [Dr. Visar Berisha](https://scholar.google.com/citations?user=MQBn718AAAAJ&hl=en), who holds joint appointments at ASU's College of Engineering and College of Health Solutions.
+I am currently continuing this research advised by [Prof. David Mortensen](https://www.cs.cmu.edu/~dmortens/) at CMU LTI, [Prof. Julie Liss](https://search.asu.edu/profile/50291) at Arizona State University's College of Health Solutions, and [Prof. Visar Berisha](https://scholar.google.com/citations?user=MQBn718AAAAJ&hl=en), who holds joint appointments at ASU's College of Engineering and College of Health Solutions.
 
 In {% cite hernandez2020dysarthria %}, I helped my colleague [Abner Hernandez](https://scholar.google.com/citations?user=M42WCJEAAAAJ&hl=en&oi=ao) to perform comparative analysis between English and Korean dysarthric speakers. 
 

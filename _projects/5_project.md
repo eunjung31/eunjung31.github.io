@@ -8,7 +8,7 @@ category: computational linguistics
 related_publications: true
 ---
 
-[ChangeLing Lab](https://changelinglab.github.io/) is a hub of expertise in computational linguistics, with a particular emphasis on phonetics, phonology, and morphophonology. If you share an interest in this field, I highly recommend exploring the following: 
+[ChangeLing Lab](https://changelinglab.github.io/) is a hub of expertise in computational linguistics, with a particular emphasis on phonetics, phonology, and morphology. If you share an interest in this field, I highly recommend exploring the following: 
 
 * [Allovera](https://arxiv.org/pdf/2004.08031), Multilingual allophone database
 * [Allosaurus](https://arxiv.org/pdf/2002.11800), Universal phone recognizer

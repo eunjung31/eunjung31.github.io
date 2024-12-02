@@ -12,8 +12,8 @@
 * [Chin-Jou Li](https://www.linkedin.com/in/chin-jou-li), CMU Language Technologies Institute
 * [Sunghye Cho](https://www.sunghyecho.com/), UPenn Department of Linguistics
 * [Baek Min Seok](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ), Yonsei University Wonju College of Medicine
-* [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue), TU Delft, Netherlands
-* [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ), Fortemedia, Singapore
+* [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue), TU Delft
+* [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ), Fortemedia
 * [Jiyoung Choi](https://www.linkedin.com/in/jiyoung-choi-450b7071), Columbia University, Teachers College
 * [Blake Vente](https://rvente.com/), Audible
 * [Paula Andrea Pérez-Toro](https://scholar.google.com/citations?user=9IgSau8AAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany

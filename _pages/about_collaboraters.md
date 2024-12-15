@@ -11,13 +11,14 @@
 * [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en), CMU Language Technologies Institute
 * [Chin-Jou Li](https://www.linkedin.com/in/chin-jou-li), CMU Language Technologies Institute
 * [Sunghye Cho](https://www.sunghyecho.com/), UPenn Department of Linguistics
-* [Baek Min Seok](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ), Yonsei University Wonju College of Medicine
-* [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue), TU Delft
-* [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ), Fortemedia
+* [Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ), Yonsei University Wonju College of Medicine
+* [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue), TU Delft, Netherlands
+* [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ), Fortemedia, Singapore
 * [Jiyoung Choi](https://www.linkedin.com/in/jiyoung-choi-450b7071), Columbia University, Teachers College
 * [Blake Vente](https://rvente.com/), Audible
-* [Paula Andrea Pérez-Toro](https://scholar.google.com/citations?user=9IgSau8AAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-
+* [Paula Andrea Pérez-Toro](https://scholar.google.com/citations?user=9IgSau8AAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg
+* [Elmar Nöth](https://scholar.google.com/citations?user=QAo7nTUAAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg
+* [Juan Rafael Orozco Arroyave](https://scholar.google.com/citations?user=MqUjowUAAAAJ&hl=en), Universidad de Antioquia UdeA
 
 
 

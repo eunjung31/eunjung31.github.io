@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper with CMU-Linguistics team has been accepted accepted to NAACL (main) [[1]](https://openreview.net/pdf?id=ocMm4iFXsB)! :tada:
+One paper with CMU-Linguistics team has been accepted accepted to NAACL (main)! :tada:

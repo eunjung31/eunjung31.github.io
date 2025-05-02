@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Augmentation for Clinical Speech
+title: Data Augmentation for Clinical Speech ASR
 description: Data augmentation techniques to enhance dysarthric speech ASR performance
 img: assets/img/3.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Objective Analysis of Pathological Speech
+title: Acoustic Analysis of Pathological Speech
 description: Automatic analysis of pathological speech considering various speech dimensions
 img: assets/img/7.jpg
 importance: 1

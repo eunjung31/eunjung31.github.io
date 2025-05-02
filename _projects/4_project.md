@@ -14,5 +14,6 @@ In {% cite choi2022opening %}, we analyzed what phoentic/phonemic information ar
 
 In {% cite huang2024dynamicsuperbphase2collaborativelyexpanding %}, CMU-Linguistics team consist of [Kwanghee Choi](https://kwangheechoi.com), [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en), and myself, has proposed various tasks related to phonetics, phonology, and prosody, focusing on the capabilities of speech foundation models in addressing linguistic theory-based tasks.
 
+{% cite choi2025leveragingallophonyselfsupervisedspeech %}
 
 

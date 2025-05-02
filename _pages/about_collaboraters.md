@@ -21,7 +21,7 @@
 * [Juan Rafael Orozco Arroyave](https://scholar.google.com/citations?user=MqUjowUAAAAJ&hl=en), Universidad de Antioquia UdeA
 * [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao), University of British Columbia
 * [Alexander Metzger](https://www.linkedin.com/in/alexander-le-metzger/), University of Washington
-* [Aruna Srivastava](https://www.linkedin.com/in/arunasr/)
+* [Aruna Srivastava](https://www.linkedin.com/in/arunasr/), University of Washington
 
 
 

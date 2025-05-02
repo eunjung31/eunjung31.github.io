@@ -19,6 +19,9 @@
 * [Paula Andrea Pérez-Toro](https://scholar.google.com/citations?user=9IgSau8AAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [Elmar Nöth](https://scholar.google.com/citations?user=QAo7nTUAAAAJ&hl=en&oi=ao), Friedrich-Alexander-Universität Erlangen-Nürnberg
 * [Juan Rafael Orozco Arroyave](https://scholar.google.com/citations?user=MqUjowUAAAAJ&hl=en), Universidad de Antioquia UdeA
+* [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao), University of British Columbia
+* [Alexander Metzger](https://www.linkedin.com/in/alexander-le-metzger/), University of Washington
+* [Aruna Srivastava](https://www.linkedin.com/in/arunasr/)
 
 
 

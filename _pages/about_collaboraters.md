@@ -14,7 +14,7 @@
 
 ## 🤝 Collaborators
 
-**🔍 Computational Linguistics & SSL Interpretability
+**🔍 SSL Interpretability
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute (2022~)*  
 - [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  

@@ -52,6 +52,6 @@
 - [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao)  
   *University of British Columbia, NLP Group (2025.2~)*  
 - [Alexander Metzger](https://www.linkedin.com/in/alexander-le-metzger/)  
-  *University of Washington, Computer Science (2025.2~)*  
+  *University of Washington, Computer Science; Koel Labs (2025.2~)*  
 - [Aruna Srivastava](https://www.linkedin.com/in/arunasr/)  
-  *University of Washington, Computer Science (2025.2~)*
+  *University of Washington, Computer Science; Koel Labs (2025.2~)*

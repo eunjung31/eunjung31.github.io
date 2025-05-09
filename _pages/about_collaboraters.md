@@ -6,7 +6,7 @@
 - [Julie Liss](https://search.asu.edu/profile/50291)  
   *Arizona State University, College of Health Solutions (2024.9~)*  
 - [Visar Berisha](https://scholar.google.com/citations?user=MQBn718AAAAJ&hl=en)  
-  *Arizona State University, College of Health Solutions / Engineering (2024.9~)*  
+  *Arizona State University, College of Health Solutions / School of Electrical Computer and Energy engineering (2024.9~)*  
 - [Vikram Ramanarayanan](https://www.vikramr.com/)  
   *Modality.AI (2023 Interspeech Mentor)*
 
@@ -14,16 +14,16 @@
 
 ## 🤝 Collaborators
 
-** 🔍 SSL Interpretability
+🔍 SSL Interpretability
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute (2022~)*  
-- [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
-  *CMU, Language Technologies Institute (2024.9~)*  
 - [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.8~)*
+- [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
+  *CMU, Language Technologies Institute (2024.9~)*  
 
-** 🧠 Technology for Pathological Speech
-- [Chin-Jou Li](https://www.linkedin.com/in/chin-jou-li)  
+🧠 Technology for Pathological Speech
+- [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
   *CMU, Language Technologies Institute (2024.9~)*  
 - [Masao Someki](https://scholar.google.com/citations?user=_aVVkVsAAAAJ&hl=en&oi=ao)  
   *CMU, Language Technologies Institute (2025.2~)*  
@@ -42,13 +42,13 @@
 - [Blake Vente](https://rvente.com/)  
   *Audible (2024.11~)*
 
-** 🎧 Acoustic Analysis of Pathological Speech
+🎧 Objective Analysis of Cogntive Impairments
 - [Sunghye Cho](https://www.sunghyecho.com/)  
   *University of Pennsylvania, Department of Linguistics (2024.9~)*  
 - [Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ)  
-  *Yonsei University, Wonju College of Medicine (2024.10~)*
+  *Yonsei University, Wonju College of Medicine, Department of Neurology (2024.10~)*
 
-** ⚖️ Fairness and Bias in AI
+⚖️ Fairness and Bias in AI
 - [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao)  
   *University of British Columbia, NLP Group (2025.2~)*  
 - [Alexander Metzger](https://www.linkedin.com/in/alexander-le-metzger/)  

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers have been accepted to Interspeech 2025! :tada:
+Two of our papers have been accepted to Interspeech 2025! 🌟

@@ -20,7 +20,7 @@
 - [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.8~)*
 - [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
-  *CMU, Language Technologies Institute (2024.9~)*  
+  *CMU, Language Technologies Institute (2024.9~2025.1)*  
 
 🧠 Technology for Pathological Speech
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  

@@ -16,13 +16,15 @@
 
 🔍 SSL Interpretability
 - [Kwanghee Choi](https://kwangheechoi.com)  
-  *CMU, Language Technologies Institute (2022~)*  
+  *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
 - [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.8~)*
 - [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.9~2025.1)*  
 
 🧠 Technology for Pathological Speech
+- [Kwanghee Choi](https://kwangheechoi.com)  
+  *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
   *CMU, Language Technologies Institute (2024.9~)*  
 - [Masao Someki](https://scholar.google.com/citations?user=_aVVkVsAAAAJ&hl=en&oi=ao)  

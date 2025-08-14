@@ -1,6 +1,6 @@
 ## 🧑‍🏫 Mentors
 - [David Harwath](https://www.cs.utexas.edu/~harwath/)  
-  *University of Texas at Austin, Department of Computer Science (2026.6~)
+  *University of Texas at Austin, Department of Computer Science (2025.6~)*
 - [David Mortensen](https://www.cs.cmu.edu/~dmortens/)  
   *Carnegie Mellon University, Language Technologies Institute (2024.2~2025.6)*  
 - [Christina Bjorndhal](https://christinabjorndahl.com/)  

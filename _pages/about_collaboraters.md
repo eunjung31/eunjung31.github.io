@@ -1,6 +1,8 @@
 ## 🧑‍🏫 Mentors
+- [David Harwath](https://www.cs.utexas.edu/~harwath/)  
+  *University of Texas at Austin, Department of Computer Science (2026.6~)
 - [David Mortensen](https://www.cs.cmu.edu/~dmortens/)  
-  *Carnegie Mellon University, Language Technologies Institute (2024.2~)*  
+  *Carnegie Mellon University, Language Technologies Institute (2024.2~2025.6)*  
 - [Christina Bjorndhal](https://christinabjorndahl.com/)  
   *Carnegie Mellon University, Department of Philosophy (2024.2~)*  
 - [Julie Liss](https://search.asu.edu/profile/50291)  
@@ -21,14 +23,16 @@
   *CMU, Language Technologies Institute (2024.8~)*
 - [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.9~2025.1)*  
+- [Cheol Jun Cho](https://cheoljun95.github.io/)  
+* (2025~)*  
 
-🧠 Technology for Pathological Speech
+🧠 Technology for Atypical Speech
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
   *CMU, Language Technologies Institute (2024.9~)*  
 - [Masao Someki](https://scholar.google.com/citations?user=_aVVkVsAAAAJ&hl=en&oi=ao)  
-  *CMU, Language Technologies Institute (2025.2~)*  
+  *CMU, Language Technologies Institute (2025.2~6)*  
 - [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue)  
   *Delft University of Technology, Multimedia Computing Group (2024.11~)*  
 - [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ)  
@@ -42,9 +46,9 @@
 - [Jiyoung Choi](https://www.linkedin.com/in/jiyoung-choi-450b7071)  
   *Columbia University, Teachers College (2024.11~)*  
 - [Blake Vente](https://rvente.com/)  
-  *Audible (2024.11~)*
+  *Audible (2024.11~2025.2)*
 
-🎧 Objective Analysis of Cogntive Impairments
+🎧 Objective Analysis of Atypical Speech
 - [Sunghye Cho](https://www.sunghyecho.com/)  
   *University of Pennsylvania, Department of Linguistics (2024.9~)*  
 - [Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ)  

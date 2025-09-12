@@ -54,6 +54,7 @@
 - [Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ)  
   *Yonsei University, Wonju College of Medicine, Department of Neurology (2024.10~)*
 
+
 ⚖️ Fairness and Bias in AI
 - [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao)  
   *University of British Columbia, NLP Group (2025.2~)*  

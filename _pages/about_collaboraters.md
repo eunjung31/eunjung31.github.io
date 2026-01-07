@@ -2,11 +2,11 @@
 - [David Harwath](https://www.cs.utexas.edu/~harwath/)  
   *University of Texas at Austin, Department of Computer Science (2025.6~)*
 - [David Mortensen](https://www.cs.cmu.edu/~dmortens/)  
-  *Carnegie Mellon University, Language Technologies Institute (2024.2~2025.6)*  
+  *Carnegie Mellon University, Language Technologies Institute (2024.2~)*  
 - [Christina Bjorndhal](https://christinabjorndahl.com/)  
   *Carnegie Mellon University, Department of Philosophy (2024.2~)*  
 - [Julie Liss](https://search.asu.edu/profile/50291)  
-  *Arizona State University, College of Health Solutions (2024.9~)*  
+  *Arizona State University, College of Health Solutions (2024 Interspeech Mentor; 2024.9~)*  
 - [Visar Berisha](https://scholar.google.com/citations?user=MQBn718AAAAJ&hl=en)  
   *Arizona State University, College of Health Solutions / School of Electrical Computer and Energy engineering (2024.9~)*  
 - [Vikram Ramanarayanan](https://www.vikramr.com/)  
@@ -19,14 +19,14 @@
 🔍 SSL Interpretability
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
-- [Kalvin Chang](https://scholar.google.com/citations?user=AtEp3vUAAAAJ&hl=en)  
-  *CMU, Language Technologies Institute (2024.8~)*
+- [Kalvin Chang](https://kalvinchang.github.io/)  
+  *CMU, Language Technologies Institute (2024.8~2025.8)*
 - [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
   *CMU, Language Technologies Institute (2024.9~2025.1)*  
 - [Cheol Jun Cho](https://cheoljun95.github.io/)  
-* (2025~)*  
+  *UC Berkeley, EECS (2025~)*  
 
-🧠 Technology for Atypical Speech
+🧠 Technology for Pathological Speech
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
@@ -48,15 +48,16 @@
 - [Blake Vente](https://rvente.com/)  
   *Audible (2024.11~2025.2)*
 
-🎧 Objective Analysis of Atypical Speech
-- [Sunghye Cho](https://www.sunghyecho.com/)  
-  *University of Pennsylvania, Department of Linguistics (2024.9~)*  
-- [Min Seok Baek](https://scholar.google.com/citations?hl=en&user=KGT1uKYAAAAJ)  
-  *Yonsei University, Wonju College of Medicine, Department of Neurology (2024.10~)*
-
+🧠 Universal Phone Recognizers
+- [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
+  *CMU, Language Technologies Institute (2024.9~)*  
+- [Kalvin Chang](https://kalvinchang.github.io/)  
+  *UC Berkely, Berkeley AI Research and Berkeley NLP (2024.8~)*
+- [Shikhar Bharadwaj](https://shikhar-s.github.io/)  
+  *CMU, Language Technologies Institute (2025.10~)*
 
 ⚖️ Fairness and Bias in AI
-- [Samir Farhan](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao)  
+- [Farhan Samir](https://scholar.google.com/citations?user=YQOEOXYAAAAJ&hl=en&oi=ao)  
   *University of British Columbia, NLP Group (2025.2~)*  
 - [Alexander Metzger](https://www.linkedin.com/in/alexander-le-metzger/)  
   *University of Washington, Computer Science; Koel Labs (2025.2~)*  

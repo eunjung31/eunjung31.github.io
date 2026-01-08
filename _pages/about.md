@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 Welcome!
 
 My name is Eunjung Yeo. 
-I am currently a visiting scholar at [SALT Lab](https://saltlab.cs.utexas.edu/), in the Department of Computer Science at the University of Texas at Austin, advised by [Prof. David Harwath](https://www.cs.utexas.edu/~harwath/). I received my M.A. and Ph.D. in Linguistics from Seoul National University, where I worked in the Spoken Language Processing Lab. Before that, I completed my bachelor's degree in Korean Language and Literature, with a double major in Psychology, at Yonsei University. 
+I am currently a Postdoctoral Fellow at [SALT Lab](https://saltlab.cs.utexas.edu/), in the Department of Computer Science at the University of Texas at Austin, advised by [Prof. David Harwath](https://www.cs.utexas.edu/~harwath/). I received my M.A. and Ph.D. in Linguistics from Seoul National University, where I worked in the Spoken Language Processing Lab. Before that, I completed my bachelor's degree in Korean Language and Literature, with a double major in Psychology, at Yonsei University. 
 
 I was previously a visiting scholar at [ChangeLing Lab](https://changelinglab.github.io/) in the Language Technologies Institute at Carnegie Mellon University, advised by [Prof. David Mortensen](https://www.cs.cmu.edu/~dmortens/), with whom I maintain strong research collaborations. I also collaborate closely with [Prof. Julie Liss](https://search.asu.edu/profile/50291) and [Prof. Visar Berisha](https://visarberisha.github.io/) at Arizona State University. 
 

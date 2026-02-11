@@ -19,10 +19,6 @@
 🔍 SSL Interpretability
 - [Kwanghee Choi](https://kwangheechoi.com)  
   *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
-- [Kalvin Chang](https://kalvinchang.github.io/)  
-  *CMU, Language Technologies Institute (2024.8~2025.8)*
-- [Shinji Watanabe](https://scholar.google.com/citations?user=U5xRA6QAAAAJ&hl=en)  
-  *CMU, Language Technologies Institute (2024.9~2025.1)*  
 - [Cheol Jun Cho](https://cheoljun95.github.io/)  
   *UC Berkeley, EECS (2025~)*  
 
@@ -31,8 +27,6 @@
   *CMU, Language Technologies Institute; UT Austin, Department of Computer Science (2022~)*  
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
   *CMU, Language Technologies Institute (2024.9~)*  
-- [Masao Someki](https://scholar.google.com/citations?user=_aVVkVsAAAAJ&hl=en&oi=ao)  
-  *CMU, Language Technologies Institute (2025.2~6)*  
 - [Zhengjun Yue](https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/zhengjun-yue)  
   *Delft University of Technology, Multimedia Computing Group (2024.11~)*  
 - [Rohan Kumar Das](https://scholar.google.com/citations?hl=en&user=V8XFDQcAAAAJ)  
@@ -45,14 +39,10 @@
   *Universidad de Antioquia (UdeA), GITA Lab (2024.11~)*  
 - [Jiyoung Choi](https://www.linkedin.com/in/jiyoung-choi-450b7071)  
   *Columbia University, Teachers College (2024.11~)*  
-- [Blake Vente](https://rvente.com/)  
-  *Audible (2024.11~2025.2)*
 
 🧠 Universal Phone Recognizers
 - [Chin-Jou Li](https://chinjouli.github.io/mysite/)  
   *CMU, Language Technologies Institute (2024.9~)*  
-- [Kalvin Chang](https://kalvinchang.github.io/)  
-  *UC Berkely, Berkeley AI Research and Berkeley NLP (2024.8~)*
 - [Shikhar Bharadwaj](https://shikhar-s.github.io/)  
   *CMU, Language Technologies Institute (2025.10~)*
 

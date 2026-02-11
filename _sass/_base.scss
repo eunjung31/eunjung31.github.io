@@ -33,6 +33,14 @@ table {
   th {
     font-weight: bold;
   }
+
+  // Hide project column (for tables with data-field attributes)
+  th[data-field*="project"],
+  th.project-column,
+  td[data-field*="project"],
+  td.project-column {
+    display: none !important;
+  }
 }
 
 a,

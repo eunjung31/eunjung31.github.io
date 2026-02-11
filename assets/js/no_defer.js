@@ -1,3 +1,19 @@
+// Function to hide project column
+function hideProjectColumn($table) {
+  $table.find("th").each(function (index) {
+    var headerText = $(this).text().toLowerCase();
+    if (headerText.indexOf("project") !== -1) {
+      var columnIndex = index;
+      // Hide header
+      $(this).hide();
+      // Hide all cells in this column
+      $table.find("tr").each(function () {
+        $(this).find("td").eq(columnIndex).hide();
+      });
+    }
+  });
+}
+
 // add bootstrap classes to tables
 $(document).ready(function () {
   $("table").each(function () {
@@ -20,5 +36,13 @@ $(document).ready(function () {
       // $(this).addClass('table-sm');
       $(this).addClass("table-hover");
     }
+
+    // Hide project column
+    hideProjectColumn($(this));
+  });
+
+  // Also hide project column after bootstrap-table initializes (if it recreates the table)
+  $(document).on("post-body.bs.table", function (e) {
+    hideProjectColumn($(e.target));
   });
 });

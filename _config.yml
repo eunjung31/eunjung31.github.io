@@ -203,7 +203,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: null # no cap; all `_news` items appear in the scrollable about-page block
+  limit: 5 # show only the 5 most recent news items on the about page
 
 latest_posts:
   enabled: false
